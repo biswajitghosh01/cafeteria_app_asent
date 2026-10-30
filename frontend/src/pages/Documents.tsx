@@ -1,4 +1,4 @@
-import { Download, FileText, Plus, Trash2, Upload } from "lucide-react";
+import { Download, FileText, Trash2, Upload } from "lucide-react";
 import { FormEvent, useEffect, useRef, useState } from "react";
 import Badge from "../components/ui/Badge";
 import Button from "../components/ui/Button";

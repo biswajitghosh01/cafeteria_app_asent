@@ -2,11 +2,9 @@ import {
   ChevronLeft,
   ChevronRight,
   CheckCircle2,
-  XCircle,
   Calendar,
 } from "lucide-react";
 import { useEffect, useState } from "react";
-import Badge from "../components/ui/Badge";
 import Button from "../components/ui/Button";
 import Card from "../components/ui/Card";
 import { api, apiErrorMessage } from "../lib/api";

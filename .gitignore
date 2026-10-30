@@ -15,6 +15,7 @@ backend/build/
 coverage/
 htmlcov/
 .coverage
+*.tsbuildinfo
 .cache/
 
 # Environment
