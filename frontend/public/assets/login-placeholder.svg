@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1e3a5f"/><stop offset="1" stop-color="#0f2438"/>
+  </linearGradient></defs>
+  <rect width="600" height="800" fill="url(#g)"/>
+  <circle cx="140" cy="180" r="90" fill="#ffffff" opacity="0.06"/>
+  <circle cx="470" cy="640" r="140" fill="#ffffff" opacity="0.06"/>
+  <text x="60" y="420" font-family="Inter,sans-serif" font-size="34" font-weight="700" fill="#ffffff">Operations Console</text>
+  <text x="60" y="462" font-family="Inter,sans-serif" font-size="16" fill="#cbd5e1">Sales · Purchases · Payroll · Compliance</text>
+</svg>
